@@ -1,6 +1,6 @@
 # clojure-ipfs-api
 
-FIXME: description
+This is a work in progress.
 
 ## Installation
 
